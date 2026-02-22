@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "email": "24f2003957@ds.study.iitm.ac.in",
+    "version": "9265f027"
+  },
+  "products": [
+    {"id":1,"name":"Running Shoes","category":"sports","price":2999.5,"stock":10,"rating":4.5},
+    {"id":2,"name":"Football","category":"sports","price":1599.0,"stock":20,"rating":4.2},
+    {"id":3,"name":"Laptop","category":"electronics","price":55000,"stock":5,"rating":4.7},
+    {"id":4,"name":"Mouse","category":"electronics","price":799,"stock":50,"rating":4.1},
+    {"id":5,"name":"Keyboard","category":"electronics","price":1499,"stock":30,"rating":4.3},
+    {"id":6,"name":"Monitor","category":"electronics","price":12000,"stock":8,"rating":4.6},
+    {"id":7,"name":"Desk","category":"furniture","price":7000,"stock":6,"rating":4.0},
+    {"id":8,"name":"Chair","category":"furniture","price":3500,"stock":12,"rating":4.2},
+    {"id":9,"name":"Lamp","category":"furniture","price":1200,"stock":25,"rating":4.1},
+    {"id":10,"name":"Bottle","category":"home","price":499,"stock":40,"rating":4.0},
+    {"id":11,"name":"Plate Set","category":"home","price":899,"stock":15,"rating":4.3},
+    {"id":12,"name":"Mixer","category":"home","price":2999,"stock":7,"rating":4.4},
+    {"id":13,"name":"Notebook","category":"stationery","price":99,"stock":100,"rating":4.2},
+    {"id":14,"name":"Pen Pack","category":"stationery","price":199,"stock":80,"rating":4.1},
+    {"id":15,"name":"Backpack","category":"fashion","price":1299,"stock":18,"rating":4.5},
+    {"id":16,"name":"T-Shirt","category":"fashion","price":799,"stock":35,"rating":4.2}
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 2,
+      "inventoryValue": 59590.80
+    }
+  }
+}
